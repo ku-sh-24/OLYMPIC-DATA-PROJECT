@@ -1,7 +1,7 @@
 import pandas as pd
 
-df = pd.read_csv("/Users/apple/Desktop/ONE DAY/athlete_events.csv")
-noc = pd.read_csv("/Users/apple/Desktop/ONE DAY/noc_regions.csv")
+df = pd.read_csv("athlete_events.csv")
+noc = pd.read_csv("noc_regions.csv")
 
 def preprocess(df,noc):
     df = df.merge(noc, on='NOC', how='left')

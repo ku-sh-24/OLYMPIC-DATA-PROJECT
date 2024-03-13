@@ -13,7 +13,7 @@ noc = pd.read_csv('noc_regions.csv')
 
 df = preprocessor1.preprocess(df, noc)
 st.sidebar.title("Olympics Analysis")
-st.sidebar.image('/Users/apple/Desktop/ONE DAY/olympicrings.png')
+st.sidebar.image('olympicrings.png')
 st.sidebar.title("USER PREFERENCE")
 user_choice = st.sidebar.radio(
     'SELECT AN OPTION',
