@@ -1,5 +1,5 @@
 <h1>Olympic Data Analysis</h1>
-<p>Check out the Project: <a href="https://github.com/ku-sh-24/OLYMPIC-DATA-PROJECT>Here!</a><p>
+<p>Check out the Project: <a href="https://github.com/ku-sh-24/OLYMPIC-DATA-PROJECT>Here!</a> </p>
 <p>This project utilizes 120 years of Olympic history data, focusing on athletes and their results. The analysis is conducted using Jupyter Notebook and presented via a web application created with Streamlit in PyCharm.</p>
 
 <h2>Libraries Used</h2>
